@@ -14,8 +14,9 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: ("./hallway.jpg");
-  background-size: 100%;
+  background-image: url("./hallway.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #left-paddle {
