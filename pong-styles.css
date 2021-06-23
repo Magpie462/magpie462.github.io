@@ -14,8 +14,8 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: 
-  background-size: cover;
+  background-image: hallway.jpeg
+  background-size: 100%;
 }
 
 #left-paddle {
