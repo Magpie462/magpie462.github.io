@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("file/hallway.jpg");
+  background-image: url("https://magpie462.github.io/file/hallway.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
