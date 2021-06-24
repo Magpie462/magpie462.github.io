@@ -11,7 +11,7 @@ body {
 
 #game {
   margin: 10px;
-  border: 5px solid black;
+  border: 5px solid red;
   left: 0;
   position: absolute;
   background-image: url("./blob/main/hallway.jpg");
@@ -20,7 +20,7 @@ body {
 }
 
 #left-paddle {
-  background-color: black;
+  background-color: red;
   left: 10px;
   height: 25px;
 }
