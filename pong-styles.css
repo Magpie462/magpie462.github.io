@@ -14,7 +14,7 @@ body {
   border: 5px solid red;
   left: 0;
   position: absolute;
-  background-image: url("./main/hallway.jpg");
+  background-image: url("./main/hospital-hallway.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
