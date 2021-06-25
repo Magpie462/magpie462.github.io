@@ -15,7 +15,7 @@ body {
   border: 5px solid red;
   left: 0;
   position: absolute;
-  background-image: url("./blob/main/hospital.jpg");
+  background-image: url("./blob/hospital.jpg");
   background-size: cover;
 }
 
