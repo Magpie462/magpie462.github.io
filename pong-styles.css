@@ -17,6 +17,7 @@ body {
   position: absolute;
   background-image: url("./main/hospital.jpg");
   background-size: cover;
+  background-image: no-repeat;
 }
 
 #left-paddle {
